@@ -1,0 +1,39 @@
+{
+  "profiles": {
+    "gwp": {
+      "commandName": "Project"
+    },
+    "gwp_Zero": {
+      "commandName": "Project",
+      "commandLineArgs": "0"
+    },
+    "gwp_One": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "gwp_path": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png"
+    },
+    "gwp_landscape_false": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png\r\nfalse"
+    },
+    "gwp_landscape_true": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png\r\ntrue"
+    },
+    "gwp_landscape_FALSE": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png\r\nFALSE"
+    },
+    "gwp_landscape_TRUE": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png\r\nTRUE"
+    },
+    "gwp_full": {
+      "commandName": "Project",
+      "commandLineArgs": "1\r\nC:\\Users\\serge\\OneDrive\\Imágenes\\edmx.png\r\nMicrosoft Print to PDF"
+    }
+  }
+}
